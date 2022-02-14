@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @feridealtingoz
+- 👋 Hi, I’m @ferzan
 - 👀 I’m interested in CS50
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on CS50
